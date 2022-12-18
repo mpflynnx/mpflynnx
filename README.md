@@ -2,7 +2,7 @@
 
 :snake: Currently working towards a new career in software development.
 
-🌱 I’m currently learning Java and Azure Fundamentals.
+🌱 I’m currently learning Java and studying for the AZ-204: Developing Solutions for Microsoft Azure exam.
 
 
 <!--
