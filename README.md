@@ -2,8 +2,11 @@
 
 :snake: Currently working towards a new career in software development.
 
-🌱 I’m currently learning Java and studying for the AZ-204: Developing Solutions for Microsoft Azure exam.
+🌱 I’m currently learning C# .NET and studying for following exams:-
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/certifications/exams/az-400/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AZ-204: Developing Solutions for Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/az-204/)
 
 <!--
 **mpflynnx/mpflynnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
