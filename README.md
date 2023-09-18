@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AZ-204: Developing Solutions for Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/az-204/)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[CLICK TO CONNECT](https://www.linkedin.com/in/matthew-flynn-a8080325a)**
+
 <!--
 **mpflynnx/mpflynnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
