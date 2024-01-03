@@ -1,12 +1,6 @@
 <h2 align="center">:wave: Hi there! I'm Matthew.</h2>
 
-:snake: Currently working towards a new career in software development.
-
-🌱 I’m currently learning C# .NET and studying for following exams:-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/certifications/exams/az-400/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AZ-204: Developing Solutions for Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/az-204/)
+🌱 I’m currently learning C and embedded software development with STM32 based microprocessors.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[CLICK TO CONNECT](https://www.linkedin.com/in/matthew-flynn-a8080325a)**
 
