@@ -1,6 +1,6 @@
 <h2 align="center">:wave: Hi there! I'm Matthew.</h2>
 
-🌱 I’m currently learning C and embedded software development with STM32 based microprocessors.
+🌱 I’m currently learning C/C++ and embedded software development with STM32 based microprocessors.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[CLICK TO CONNECT](https://www.linkedin.com/in/matthew-flynn-a8080325a)**
 
