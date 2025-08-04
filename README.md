@@ -1,4 +1,4 @@
-<h2 align="center">:wave: Hi there! I'm Matthew.</h2>
+<h2 style="text-align: center;">:wave: Hi there! I'm Matthew.</h2>
 
 🌱  Working on C/C++ embedded software development with STM32 based microcontrollers.
 
